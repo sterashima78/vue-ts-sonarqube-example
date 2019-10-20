@@ -1,6 +1,7 @@
 # vue-ts-sonerqube-example
 Vue + TypeScript のプロジェクトで SonarQube つかうやつ
-https://qiita.com/sterashima78/items/fbb906ac21325bea2173
+
+Qiita: https://qiita.com/sterashima78/items/fbb906ac21325bea2173
 
 ## Project setup
 ```
