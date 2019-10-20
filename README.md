@@ -1,4 +1,6 @@
 # vue-ts-sonerqube-example
+Vue + TypeScript のプロジェクトで SonarQube つかうやつ
+https://qiita.com/sterashima78/items/fbb906ac21325bea2173
 
 ## Project setup
 ```
@@ -25,5 +27,10 @@ npm run test:unit
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Scan + SonarQube に送信
+
+localhost:9000 に サーバがたっている状態で
+
+```
+npm run sonar
+```
