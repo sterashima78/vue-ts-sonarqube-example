@@ -1,7 +1,10 @@
 .DS_Store
 node_modules
 /dist
-
+coverage
+report.json
+.scannerwork
+test-report.xml
 # local env files
 .env.local
 .env.*.local
